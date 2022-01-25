@@ -1,8 +1,4 @@
-- 👋 They call me Dr. Worm
-- 👀 I'm interested in things
-- 🌱 I'm not a real doctor
-- 💞️ But I am a real worm
-- 🐛 I am an actual worm
+Hello, friend.
 
 <!---
 josephmoss/josephmoss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
